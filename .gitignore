@@ -1,0 +1,5 @@
+credentials.json
+token.json
+mail_out/
+venv/
+__pycache__/
